@@ -8,6 +8,8 @@ description: >
 
 ## Prerequisites
 
+* A Kubernetes cluster running v1.25 or later.
+
 * [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) CLI tool.
 
 * For KinD cluster you need:

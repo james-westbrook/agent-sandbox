@@ -86,6 +86,9 @@ flowchart LR
 
 ## Installation
 
+> [!NOTE]
+> Kubernetes Agent Sandbox requires Kubernetes v1.25+. 
+
 ### Standard Install (Core + Extensions)
 
 Recommended for most users:
